@@ -45,10 +45,10 @@ Currently diving deep into LangChain, OpenAI, Web3, and Python-based systems tha
 
 ## 🔗 Find Me
 
-- 📄 [Resume](https://portfolio-teal-one-74.vercel.app)
+- 📄 [Resume](garvpreet-portfolio-eight.vercel.app)
 - 🧠 [Twitter](https://x.com/builtbyGavi)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/garvpreet-singh-60552233b/)
-- 🌍 [Portfolio](https://portfolio-teal-one-74.vercel.app)
+- 🌍 [Portfolio](garvpreet-portfolio-eight.vercel.app)
 
 ---
 
