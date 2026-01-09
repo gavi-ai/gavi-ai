@@ -10,8 +10,6 @@ Currently diving deep into LangChain, OpenAI, Web3, and Python-based systems tha
 - 🗣️ **VoiceGPT (AI Voice Assistant)** – Voice-based assistant powered by OpenAI APIs with continuous interaction. Think Jarvis-lite built with Python.
 - 🤖 **EchoGPT** – GPT-powered chatbot with memory and personality, designed for engaging real-time responses using Streamlit.
 - 🌐 **Web3 Portfolio Tracker** – Clean and modern Dapp tracking real-time wallet assets using Ether.js, CoinGecko, and Moralis.
-- 📚 **EduAI Pro** – Full-stack AI assistant for students and tutors, includes chat, doubt-resolving, and resource suggestion using OpenAI + Socket.io.
-- 📄 **PDF Q&A Bot** – Upload any PDF and query it in real-time with LangChain, OpenAI, and ChromaDB. Perfect for researchers and students.
 
 ---
 
