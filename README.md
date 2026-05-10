@@ -1,54 +1,42 @@
-# 👋 Yo, I'm Garvpreet — aka gavi-ai
+# ⚡ Yo, I'm Garvpreet — aka Gavi
 
-I build AI agents, automation tools, and full-stack products that solve real problems — from scraping jobs to simulating interviews to building next-gen web apps.  
-Currently diving deep into LangChain, OpenAI, Web3, and Python-based systems that actually *think* and *act*.
+**Data Engineer | Pipeline Architect | Distributed Systems Geek**
 
----
-
-## 🧠 What I've Shipped
-
-- 🗣️ **VoiceGPT (AI Voice Assistant)** – Voice-based assistant powered by OpenAI APIs with continuous interaction. Think Jarvis-lite built with Python.
-- 🤖 **EchoGPT** – GPT-powered chatbot with memory and personality, designed for engaging real-time responses using Streamlit.
-- 🌐 **Web3 Portfolio Tracker** – Clean and modern Dapp tracking real-time wallet assets using Ether.js, CoinGecko, and Moralis.
+I don't just write scripts; I architect **fault-tolerant real-time pipelines**, construct **enterprise data warehouses** using Medallion Architecture, and orchestrate **big data clusters**. Currently focused on building systems that can process millions of rows seamlessly and scale without breaking a sweat.
 
 ---
 
-## 🚧 Currently Cooking (Work in Progress 🔥)
+### 🛠️ The Engineering Arsenal
 
-- 👤 **Face Recognition Auth System** – Python-based secure face login/verification system using OpenCV and deep learning.
-- 🎯 **Job Hunter AI Agent** – Scrapes job sites, filters by skill and location, ranks listings, and auto-generates custom applications.
-- 🛒 **AI-Integrated E-commerce App (MERN)** – Modern ecom site with personalized product recommendations and chatbot support.
-- 🗓️ **Appointment Booking App (MERN)** – Calendar integration, real-time slots, with admin and client dashboards — designed for freelancers & small businesses.
-- 💬 **WhatsApp Clone** – Real-time chat app with group chats, emojis, media support using MERN + Socket.io.
-- 🧠 **AI Mock Interview App** – Simulates technical + HR interviews using GPT-4 prompts with custom scoring & feedback system.
-- 🤖 **Python CLI Chatbot** – Lightweight command-line chatbot for casual queries and mini tasks using OpenAI API.
+* **Big Data & Streaming:** Apache Spark, Apache Kafka, PySpark
+* **Orchestration & ETL:** Prefect 3.0, dbt Core, Python
+* **Databases & Warehousing:** PostgreSQL, Medallion Architecture (Bronze-Silver-Gold)
+* **Infrastructure:** Docker, Git/GitHub, Linux
 
 ---
 
-## 🛠️ My Tech Toolbox
+### 🚢 What I'm Shipping (The Heavy Hitters)
 
-`LangChain` `OpenAI API` `Python` `JavaScript` `Node.js` `React` `MongoDB` `Express.js`  
-`Socket.io` `ChromaDB` `TailwindCSS` `Streamlit` `Web3.js` `Solidity` `Firebase` `OpenCV`
-
----
-
-## 🚀 What's Next
-
-- 🌐 Launching [garv.ai](https://garv.ai) – my AI tools portfolio with blog, docs, and micro-apps
-- 🧑‍💼 Monetizing via AI agents, freelance tools, and productized APIs (goal: ₹2L+/month)
-- 📢 Building a dev brand across GitHub, LinkedIn, and Twitter by shipping weekly
-- 👥 Starting open-source collabs with 2-3 devs from the AI space (DMs open soon)
+* [**Enterprise Weather ETL**](https://github.com/gavi-ai/Enterprise_Weather_ETL) – Automated Bronze-Silver-Gold data pipeline using Python and advanced data modeling.
+* [**Real-Time Fraud Engine**](https://github.com/gavi-ai/RealTime_Fraud_Engine) – Low-latency streaming architecture built to process high-throughput data streams.
+* [**Kafka Cart Abandonment Engine**](https://github.com/gavi-ai/kafka-cart-abandonment-engine) – Distributed message queue system tracking real-time user events for e-commerce.
+* [**Prefect Orchestrator**](https://github.com/gavi-ai/Prefect_Orchestrator) – Fault-tolerant automated workflow scheduler with auto-retries and execution tracking.
+* **10M+ Big Data Processor** – Leveraged PySpark across multiple cores to distribute and process over 10 Million rows in under 6 seconds.
 
 ---
 
-## 🔗 Find Me
+### 🚀 What's Next / Currently Exploring
 
-- 📄 [Resume](garvpreet-portfolio-eight.vercel.app)
-- 🧠 [Twitter](https://x.com/builtbyGavi)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/garvpreet-singh-60552233b/)
-- 🌍 [Portfolio](garvpreet-portfolio-eight.vercel.app)
+* 🧠 Deep diving into Cloud Data Warehousing (Snowflake / AWS Redshift).
+* ⚡ Optimizing real-time stream processing and cluster memory management.
+* 🌍 Actively pursuing international remote Data Engineering gigs for the 2026 season.
 
 ---
 
-> _"Building my digital legacy, one AI agent at a time."_  
+### 🔗 Find Me in the Matrix
 
+* 🌐 **Portfolio:** [Check out my Live Architecture](https://portfolio-teal-one-74.vercel.app) *(Update this link to your new Vercel URL!)*
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/garvpreet-singh-60552233b)
+* ✉️ **Email:** gavii150205@gmail.com
+
+> *"Data is just noise until you engineer it into an asset."*
