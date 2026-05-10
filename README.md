@@ -35,7 +35,7 @@ I don't just write scripts; I architect **fault-tolerant real-time pipelines**, 
 
 ### 🔗 Find Me in the Matrix
 
-* 🌐 **Portfolio:** [Check out my Live Architecture](https://portfolio-teal-one-74.vercel.app) *(Update this link to your new Vercel URL!)*
+* 🌐 **Portfolio:** [Check out my Live Architecture](https://portfolio-teal-one-74.vercel.app) 
 * 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/garvpreet-singh-60552233b)
 * ✉️ **Email:** gavii150205@gmail.com
 
